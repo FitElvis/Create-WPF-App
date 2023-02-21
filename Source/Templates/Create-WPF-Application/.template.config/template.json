@@ -1,0 +1,13 @@
+{
+    "$schema": "https://json.schemastore.org/template",
+    "author": "Lee Royston-Hayes",
+    "classifications": [ "Desktop" ],
+    "identity": "Create-WPF-Application",
+    "name": "Create WPF Application Starter Kit",
+    "shortName": "Create-WPF-Application",
+    "tags": {
+        "language": "c#",
+        "type": "project"
+    },
+    "sourceName": "Create-WPF-Application"
+}

@@ -1,0 +1,12 @@
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.BusinessLogic\bin\Debug\net6.0-windows\Create-WPF-Application.BusinessLogic.deps.json
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.BusinessLogic\bin\Debug\net6.0-windows\Create-WPF-Application.BusinessLogic.dll
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.BusinessLogic\bin\Debug\net6.0-windows\Create-WPF-Application.BusinessLogic.pdb
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.BusinessLogic\obj\Debug\net6.0-windows\Create-WPF-Application.BusinessLogic.csproj.AssemblyReference.cache
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.BusinessLogic\obj\Debug\net6.0-windows\Create-WPF-Application.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.BusinessLogic\obj\Debug\net6.0-windows\Create-WPF-Application.BusinessLogic.AssemblyInfoInputs.cache
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.BusinessLogic\obj\Debug\net6.0-windows\Create-WPF-Application.BusinessLogic.AssemblyInfo.cs
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.BusinessLogic\obj\Debug\net6.0-windows\Create-WPF-Application.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.BusinessLogic\obj\Debug\net6.0-windows\Create-WPF-Application.BusinessLogic.dll
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.BusinessLogic\obj\Debug\net6.0-windows\refint\Create-WPF-Application.BusinessLogic.dll
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.BusinessLogic\obj\Debug\net6.0-windows\Create-WPF-Application.BusinessLogic.pdb
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.BusinessLogic\obj\Debug\net6.0-windows\ref\Create-WPF-Application.BusinessLogic.dll

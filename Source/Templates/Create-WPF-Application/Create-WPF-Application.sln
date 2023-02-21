@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Create-WPF-Application", "Create-WPF-Application\Create-WPF-Application.csproj", "{699CF047-708A-403C-8E79-FFCA25EC6281}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Source", "Source", "{7673EACF-CBE2-43AE-9DB9-3F5ED0F70EE9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business Logic", "Business Logic", "{EA994DF9-DF49-4AB7-B9F5-8059B248E55D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Interface", "Interface", "{4C7E1753-631B-4F8D-BA20-9C4FDA300F1A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Resource Access", "Resource Access", "{AB9BE3E1-3F6E-4382-A6B9-9612054FE756}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{C18C014B-6FF0-488A-92EC-DC72E88EA10E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Create-WPF-Application.BusinessLogic", "Create-WPF-Application.BusinessLogic\Create-WPF-Application.BusinessLogic.csproj", "{EF6BA8B0-FBE2-4A27-9C07-CB63B7B08C6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Create-WPF-Application.BusinessLogic.Contracts", "Create-WPF-Application.BusinessLogic.Contracts\Create-WPF-Application.BusinessLogic.Contracts.csproj", "{22F0AC77-BDBB-4F70-9A15-F236CDFACEA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{699CF047-708A-403C-8E79-FFCA25EC6281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{699CF047-708A-403C-8E79-FFCA25EC6281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{699CF047-708A-403C-8E79-FFCA25EC6281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{699CF047-708A-403C-8E79-FFCA25EC6281}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF6BA8B0-FBE2-4A27-9C07-CB63B7B08C6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF6BA8B0-FBE2-4A27-9C07-CB63B7B08C6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF6BA8B0-FBE2-4A27-9C07-CB63B7B08C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF6BA8B0-FBE2-4A27-9C07-CB63B7B08C6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22F0AC77-BDBB-4F70-9A15-F236CDFACEA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22F0AC77-BDBB-4F70-9A15-F236CDFACEA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22F0AC77-BDBB-4F70-9A15-F236CDFACEA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22F0AC77-BDBB-4F70-9A15-F236CDFACEA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{699CF047-708A-403C-8E79-FFCA25EC6281} = {4C7E1753-631B-4F8D-BA20-9C4FDA300F1A}
+		{EA994DF9-DF49-4AB7-B9F5-8059B248E55D} = {7673EACF-CBE2-43AE-9DB9-3F5ED0F70EE9}
+		{4C7E1753-631B-4F8D-BA20-9C4FDA300F1A} = {7673EACF-CBE2-43AE-9DB9-3F5ED0F70EE9}
+		{AB9BE3E1-3F6E-4382-A6B9-9612054FE756} = {7673EACF-CBE2-43AE-9DB9-3F5ED0F70EE9}
+		{EF6BA8B0-FBE2-4A27-9C07-CB63B7B08C6D} = {EA994DF9-DF49-4AB7-B9F5-8059B248E55D}
+		{22F0AC77-BDBB-4F70-9A15-F236CDFACEA0} = {EA994DF9-DF49-4AB7-B9F5-8059B248E55D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E5ED521-FA33-42D1-928F-DE797D2AB3D8}
+	EndGlobalSection
+EndGlobal

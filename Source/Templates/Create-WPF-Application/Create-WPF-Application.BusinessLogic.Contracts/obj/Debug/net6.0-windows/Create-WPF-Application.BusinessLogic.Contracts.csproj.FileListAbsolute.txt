@@ -1,0 +1,12 @@
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.BusinessLogic.Contracts\bin\Debug\net6.0-windows\Create-WPF-Application.BusinessLogic.Contracts.deps.json
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.BusinessLogic.Contracts\bin\Debug\net6.0-windows\Create-WPF-Application.BusinessLogic.Contracts.dll
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.BusinessLogic.Contracts\bin\Debug\net6.0-windows\Create-WPF-Application.BusinessLogic.Contracts.pdb
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.BusinessLogic.Contracts\obj\Debug\net6.0-windows\Create-WPF-Application.BusinessLogic.Contracts.csproj.AssemblyReference.cache
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.BusinessLogic.Contracts\obj\Debug\net6.0-windows\Create-WPF-Application.BusinessLogic.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.BusinessLogic.Contracts\obj\Debug\net6.0-windows\Create-WPF-Application.BusinessLogic.Contracts.AssemblyInfoInputs.cache
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.BusinessLogic.Contracts\obj\Debug\net6.0-windows\Create-WPF-Application.BusinessLogic.Contracts.AssemblyInfo.cs
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.BusinessLogic.Contracts\obj\Debug\net6.0-windows\Create-WPF-Application.BusinessLogic.Contracts.csproj.CoreCompileInputs.cache
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.BusinessLogic.Contracts\obj\Debug\net6.0-windows\Create-WPF-Application.BusinessLogic.Contracts.dll
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.BusinessLogic.Contracts\obj\Debug\net6.0-windows\refint\Create-WPF-Application.BusinessLogic.Contracts.dll
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.BusinessLogic.Contracts\obj\Debug\net6.0-windows\Create-WPF-Application.BusinessLogic.Contracts.pdb
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.BusinessLogic.Contracts\obj\Debug\net6.0-windows\ref\Create-WPF-Application.BusinessLogic.Contracts.dll
