@@ -1,0 +1,12 @@
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Model\bin\Debug\net6.0-windows\Create-WPF-Application.Model.deps.json
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Model\bin\Debug\net6.0-windows\Create-WPF-Application.Model.dll
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Model\bin\Debug\net6.0-windows\Create-WPF-Application.Model.pdb
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Model\obj\Debug\net6.0-windows\Create-WPF-Application.Model.csproj.AssemblyReference.cache
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Model\obj\Debug\net6.0-windows\Create-WPF-Application.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Model\obj\Debug\net6.0-windows\Create-WPF-Application.Model.AssemblyInfoInputs.cache
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Model\obj\Debug\net6.0-windows\Create-WPF-Application.Model.AssemblyInfo.cs
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Model\obj\Debug\net6.0-windows\Create-WPF-Application.Model.csproj.CoreCompileInputs.cache
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Model\obj\Debug\net6.0-windows\Create-WPF-Application.Model.dll
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Model\obj\Debug\net6.0-windows\refint\Create-WPF-Application.Model.dll
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Model\obj\Debug\net6.0-windows\Create-WPF-Application.Model.pdb
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Model\obj\Debug\net6.0-windows\ref\Create-WPF-Application.Model.dll

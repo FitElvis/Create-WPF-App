@@ -1,0 +1,12 @@
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Diagnostics\bin\Debug\net6.0-windows\Create-WPF-Application.Diagnostics.deps.json
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Diagnostics\bin\Debug\net6.0-windows\Create-WPF-Application.Diagnostics.dll
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Diagnostics\bin\Debug\net6.0-windows\Create-WPF-Application.Diagnostics.pdb
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Diagnostics\obj\Debug\net6.0-windows\Create-WPF-Application.Diagnostics.csproj.AssemblyReference.cache
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Diagnostics\obj\Debug\net6.0-windows\Create-WPF-Application.Diagnostics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Diagnostics\obj\Debug\net6.0-windows\Create-WPF-Application.Diagnostics.AssemblyInfoInputs.cache
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Diagnostics\obj\Debug\net6.0-windows\Create-WPF-Application.Diagnostics.AssemblyInfo.cs
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Diagnostics\obj\Debug\net6.0-windows\Create-WPF-Application.Diagnostics.csproj.CoreCompileInputs.cache
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Diagnostics\obj\Debug\net6.0-windows\Create-WPF-Application.Diagnostics.dll
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Diagnostics\obj\Debug\net6.0-windows\refint\Create-WPF-Application.Diagnostics.dll
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Diagnostics\obj\Debug\net6.0-windows\Create-WPF-Application.Diagnostics.pdb
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Diagnostics\obj\Debug\net6.0-windows\ref\Create-WPF-Application.Diagnostics.dll

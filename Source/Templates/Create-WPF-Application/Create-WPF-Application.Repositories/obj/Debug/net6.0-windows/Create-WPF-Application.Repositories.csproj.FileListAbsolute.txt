@@ -1,0 +1,12 @@
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Repositories\bin\Debug\net6.0-windows\Create-WPF-Application.Repositories.deps.json
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Repositories\bin\Debug\net6.0-windows\Create-WPF-Application.Repositories.dll
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Repositories\bin\Debug\net6.0-windows\Create-WPF-Application.Repositories.pdb
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Repositories\obj\Debug\net6.0-windows\Create-WPF-Application.Repositories.csproj.AssemblyReference.cache
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Repositories\obj\Debug\net6.0-windows\Create-WPF-Application.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Repositories\obj\Debug\net6.0-windows\Create-WPF-Application.Repositories.AssemblyInfoInputs.cache
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Repositories\obj\Debug\net6.0-windows\Create-WPF-Application.Repositories.AssemblyInfo.cs
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Repositories\obj\Debug\net6.0-windows\Create-WPF-Application.Repositories.csproj.CoreCompileInputs.cache
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Repositories\obj\Debug\net6.0-windows\Create-WPF-Application.Repositories.dll
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Repositories\obj\Debug\net6.0-windows\refint\Create-WPF-Application.Repositories.dll
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Repositories\obj\Debug\net6.0-windows\Create-WPF-Application.Repositories.pdb
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Repositories\obj\Debug\net6.0-windows\ref\Create-WPF-Application.Repositories.dll

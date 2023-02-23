@@ -1,0 +1,12 @@
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Repositories.Contracts\bin\Debug\net6.0-windows\Create-WPF-Application.Repositories.Contracts.deps.json
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Repositories.Contracts\bin\Debug\net6.0-windows\Create-WPF-Application.Repositories.Contracts.dll
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Repositories.Contracts\bin\Debug\net6.0-windows\Create-WPF-Application.Repositories.Contracts.pdb
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Repositories.Contracts\obj\Debug\net6.0-windows\Create-WPF-Application.Repositories.Contracts.csproj.AssemblyReference.cache
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Repositories.Contracts\obj\Debug\net6.0-windows\Create-WPF-Application.Repositories.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Repositories.Contracts\obj\Debug\net6.0-windows\Create-WPF-Application.Repositories.Contracts.AssemblyInfoInputs.cache
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Repositories.Contracts\obj\Debug\net6.0-windows\Create-WPF-Application.Repositories.Contracts.AssemblyInfo.cs
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Repositories.Contracts\obj\Debug\net6.0-windows\Create-WPF-Application.Repositories.Contracts.csproj.CoreCompileInputs.cache
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Repositories.Contracts\obj\Debug\net6.0-windows\Create-WPF-Application.Repositories.Contracts.dll
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Repositories.Contracts\obj\Debug\net6.0-windows\refint\Create-WPF-Application.Repositories.Contracts.dll
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Repositories.Contracts\obj\Debug\net6.0-windows\Create-WPF-Application.Repositories.Contracts.pdb
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Repositories.Contracts\obj\Debug\net6.0-windows\ref\Create-WPF-Application.Repositories.Contracts.dll
