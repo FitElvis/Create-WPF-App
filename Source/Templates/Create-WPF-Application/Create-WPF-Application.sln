@@ -19,21 +19,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Create-WPF-Application.Busi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Create-WPF-Application.BusinessLogic.Contracts", "Create-WPF-Application.BusinessLogic.Contracts\Create-WPF-Application.BusinessLogic.Contracts.csproj", "{22F0AC77-BDBB-4F70-9A15-F236CDFACEA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Create-WPF-Application.Model", "Create-WPF-Application.Model\Create-WPF-Application.Model.csproj", "{FC6C9846-B78B-4232-9712-F4BE4D47EDB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Create-WPF-Application.Model", "Create-WPF-Application.Model\Create-WPF-Application.Model.csproj", "{FC6C9846-B78B-4232-9712-F4BE4D47EDB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Create-WPF-Application.Model.Contracts", "Create-WPF-Application.Model.Contracts\Create-WPF-Application.Model.Contracts.csproj", "{91A7170E-6E70-4C2C-9DF7-DC5F771D0FDE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Create-WPF-Application.Model.Contracts", "Create-WPF-Application.Model.Contracts\Create-WPF-Application.Model.Contracts.csproj", "{91A7170E-6E70-4C2C-9DF7-DC5F771D0FDE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Create-WPF-Application.Core", "Create-WPF-Application.Core\Create-WPF-Application.Core.csproj", "{53A6821B-F54A-44E3-B5B2-2D5E87481F90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Create-WPF-Application.Core", "Create-WPF-Application.Core\Create-WPF-Application.Core.csproj", "{53A6821B-F54A-44E3-B5B2-2D5E87481F90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Create-WPF-Application.Core.Contracts", "Create-WPF-Application.Core.Contracts\Create-WPF-Application.Core.Contracts.csproj", "{491F0E2D-38FF-4E9B-9104-0678E4F42624}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Create-WPF-Application.Core.Contracts", "Create-WPF-Application.Core.Contracts\Create-WPF-Application.Core.Contracts.csproj", "{491F0E2D-38FF-4E9B-9104-0678E4F42624}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Create-WPF-Application.Utils", "Create-WPF-Application.Utils\Create-WPF-Application.Utils.csproj", "{ABE1108E-B2CA-4364-8F8E-339644115AD0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Create-WPF-Application.Utils", "Create-WPF-Application.Utils\Create-WPF-Application.Utils.csproj", "{ABE1108E-B2CA-4364-8F8E-339644115AD0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Create-WPF-Application.Diagnostics", "Create-WPF-Application.Diagnostics\Create-WPF-Application.Diagnostics.csproj", "{2DB922CB-E04D-4B6E-A123-7CFBE4DB4245}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Create-WPF-Application.Diagnostics", "Create-WPF-Application.Diagnostics\Create-WPF-Application.Diagnostics.csproj", "{2DB922CB-E04D-4B6E-A123-7CFBE4DB4245}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Create-WPF-Application.Repositories", "Create-WPF-Application.Repositories\Create-WPF-Application.Repositories.csproj", "{B73442A7-ED40-4019-B1B0-B828459E47AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Create-WPF-Application.Repositories", "Create-WPF-Application.Repositories\Create-WPF-Application.Repositories.csproj", "{B73442A7-ED40-4019-B1B0-B828459E47AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Create-WPF-Application.Repositories.Contracts", "Create-WPF-Application.Repositories.Contracts\Create-WPF-Application.Repositories.Contracts.csproj", "{EBBDB066-BD27-45DC-AFE2-39284C0CE847}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Create-WPF-Application.Repositories.Contracts", "Create-WPF-Application.Repositories.Contracts\Create-WPF-Application.Repositories.Contracts.csproj", "{EBBDB066-BD27-45DC-AFE2-39284C0CE847}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Create-WPF-Application.Contracts", "Create-WPF-Application.Contracts\Create-WPF-Application.Contracts.csproj", "{B8AED94F-16B6-4505-8C67-EFC961F5A05E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -85,6 +87,10 @@ Global
 		{EBBDB066-BD27-45DC-AFE2-39284C0CE847}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBBDB066-BD27-45DC-AFE2-39284C0CE847}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBBDB066-BD27-45DC-AFE2-39284C0CE847}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8AED94F-16B6-4505-8C67-EFC961F5A05E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8AED94F-16B6-4505-8C67-EFC961F5A05E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8AED94F-16B6-4505-8C67-EFC961F5A05E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8AED94F-16B6-4505-8C67-EFC961F5A05E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -104,6 +110,7 @@ Global
 		{2DB922CB-E04D-4B6E-A123-7CFBE4DB4245} = {4C7E1753-631B-4F8D-BA20-9C4FDA300F1A}
 		{B73442A7-ED40-4019-B1B0-B828459E47AF} = {AB9BE3E1-3F6E-4382-A6B9-9612054FE756}
 		{EBBDB066-BD27-45DC-AFE2-39284C0CE847} = {AB9BE3E1-3F6E-4382-A6B9-9612054FE756}
+		{B8AED94F-16B6-4505-8C67-EFC961F5A05E} = {4C7E1753-631B-4F8D-BA20-9C4FDA300F1A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4E5ED521-FA33-42D1-928F-DE797D2AB3D8}

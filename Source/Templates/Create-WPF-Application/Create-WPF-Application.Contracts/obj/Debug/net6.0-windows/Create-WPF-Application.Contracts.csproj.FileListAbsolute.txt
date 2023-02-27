@@ -1,0 +1,12 @@
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Contracts\bin\Debug\net6.0-windows\Create-WPF-Application.Contracts.deps.json
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Contracts\bin\Debug\net6.0-windows\Create-WPF-Application.Contracts.dll
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Contracts\bin\Debug\net6.0-windows\Create-WPF-Application.Contracts.pdb
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Contracts\obj\Debug\net6.0-windows\Create-WPF-Application.Contracts.csproj.AssemblyReference.cache
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Contracts\obj\Debug\net6.0-windows\Create-WPF-Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Contracts\obj\Debug\net6.0-windows\Create-WPF-Application.Contracts.AssemblyInfoInputs.cache
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Contracts\obj\Debug\net6.0-windows\Create-WPF-Application.Contracts.AssemblyInfo.cs
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Contracts\obj\Debug\net6.0-windows\Create-WPF-Application.Contracts.csproj.CoreCompileInputs.cache
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Contracts\obj\Debug\net6.0-windows\Create-WPF-Application.Contracts.dll
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Contracts\obj\Debug\net6.0-windows\refint\Create-WPF-Application.Contracts.dll
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Contracts\obj\Debug\net6.0-windows\Create-WPF-Application.Contracts.pdb
+C:\Data\Git\Create-WPF-App\Source\Templates\Create-WPF-Application\Create-WPF-Application.Contracts\obj\Debug\net6.0-windows\ref\Create-WPF-Application.Contracts.dll
